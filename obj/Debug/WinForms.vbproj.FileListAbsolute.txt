@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\obj\Debug\WinForms.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\obj\Debug\WinForms.Form1.resources
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\obj\Debug\WinForms.Resources.resources
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\obj\Debug\WinForms.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\obj\Debug\WinForms.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\bin\Debug\WinForms.pdb
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\bin\Debug\WinForms.xml
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\obj\Debug\WinForms.vbproj.Up2Date
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\obj\Debug\WinForms.xml
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\obj\Debug\WinForms.pdb
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\bin\Debug\WinForms.exe
+C:\Users\Administrator\Desktop\ServerAPI\WinForms\obj\Debug\WinForms.exe
